@@ -1,0 +1,14 @@
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.1\GatewayApi.deps.json
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.1\GatewayApi.runtimeconfig.json
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.1\GatewayApi.runtimeconfig.dev.json
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.1\GatewayApi.dll
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\bin\Debug\netcoreapp2.1\GatewayApi.pdb
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.csprojAssemblyReference.cache
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.csproj.CoreCompileInputs.cache
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.RazorAssemblyInfo.cache
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.RazorAssemblyInfo.cs
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.AssemblyInfoInputs.cache
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.AssemblyInfo.cs
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.RazorTargetAssemblyInfo.cache
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.dll
+C:\Users\idesa\Documents\ApiGatewayExample\GatewayApi\obj\Debug\netcoreapp2.1\GatewayApi.pdb
